@@ -10,7 +10,7 @@ We can then manupulate that data to tell us the average change, greatest increas
 
 All of that data is then written onto the 'budget.rft' Text File to give the final results of our financial analysis.
 
-
+________________________________________________________________________________________________________________________________________________________
 
 PyPoll:
 We begin to tackle the PyPoll problem in the same way we did for our budget problem, first we import os and csv before instruction Python to open and read our election data.
